@@ -1,5 +1,7 @@
 # Emotion Detection from Voice
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+
 Predict emotions from short audio clips using a trained TensorFlow model and MFCC audio features.
 
 ## Features
